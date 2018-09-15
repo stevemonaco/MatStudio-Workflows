@@ -22,4 +22,4 @@ These scripts must be installed into the Material Studio "User Menu".
 These scripts were developed for Bohdan Schatschneider's computational chemistry research group. They are being archived here on Github so that the group and interested individuals can access them. This repository aims to improve upon the lack of public availability of Materials Studio scripts.
 
 ### License
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
