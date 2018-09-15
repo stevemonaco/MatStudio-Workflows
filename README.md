@@ -1,7 +1,5 @@
 # MatStudio-Workflows
-A collection of scripts that automate computational chemistry calculations within Materials Studio.
-
-### Purpose
+A collection of perl scripts that automate computational chemistry calculations within Materials Studio via the MaterialScript API.
 
 ### High-throughput Workflow
 Intended for repetitive workflows with user-defined calculation settings within Materials Studio. Outputs band structure and polarizability parameters useful for semiconductor candidate screening.
