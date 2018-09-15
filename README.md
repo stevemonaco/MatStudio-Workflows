@@ -4,8 +4,8 @@ A collection of perl scripts that automate computational chemistry calculations 
 ## High-throughput Workflow
 Intended for repetitive workflows with user-defined calculation settings within Materials Studio. Outputs band structure and polarizability parameters useful for semiconductor candidate screening.
 
-### Documentation
-Extensive installation documentation and usage instructions included as a Word document.
+  ### Documentation
+  Extensive installation documentation and usage instructions included as a Word document.
 
 ## Pressure Series Workflow
 This script continuously pressurizes crystal systems in a stepwise fashion without the interruptions associated with manual calculations. Calculation settings hardcoded to Schatschneider group settings, but can be modified in the source code.
