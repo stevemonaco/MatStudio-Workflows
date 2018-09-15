@@ -14,7 +14,7 @@ This script continuously pressurizes crystal systems in a stepwise fashion witho
 Script that takes a crystal system as input and outputs a gas-phase MIB structure with specified nearest-neighbor distance. Only valid for single-component crystalline systems.
 
 ## Running
-These scripts must be installed into the Material Studio "User Menu". See the Materials Studio documentation for details. Molecule-In-A-Box may run on the local client.
+These scripts must be added to the Material Studio "User Menu" for scripts and configured. See the Materials Studio documentation for details. Molecule-In-A-Box may run on the local client.
 
 ## Background
 These scripts were developed for Bohdan Schatschneider's computational chemistry research group. They are being archived here on Github so that the group and interested individuals can access them. This repository aims to improve upon the lack of public availability of Materials Studio scripts.
